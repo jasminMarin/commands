@@ -1,7 +1,11 @@
 ## Git commands
 git commanduudiin tailbar tuslamjiin repo. Nemel medeeleliig [https://1234.mn/course/108](https://1234.mn/course/108)
 
-git ehnees n duustal surgalt uzsen commanduud
+```javascript
+function test() {
+console.log("look ma', no spaces");
+}
+````
 
 ## Command-uudin jagsaalt
 `git add *` **Buh shine bolon uurchlugdsun file-uudiig stage-lene**
