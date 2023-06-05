@@ -3,8 +3,7 @@ git commanduudiin tailbar tuslamjiin repo. Nemel medeeleliig [https://1234.mn/co
 
 git ehnees n duustal surgalt uzsen commanduud
 
-### Command-uudin jagsaalt
----
+## Command-uudin jagsaalt
 `git add *` **Buh shine bolon uurchlugdsun file-uudiig stage-lene**
 
 `git add .` **Buh shine bolon uurchlugdsun file-uudiig stage-lene**
