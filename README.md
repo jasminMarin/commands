@@ -1,4 +1,6 @@
-# commands
-git commanduudiin tailbar tuslamjiin repo. 
+## Git commands
+git commanduudiin tailbar tuslamjiin repo. Nemel medeeleliig: https://1234.mn/course/108
 
 git ehnees n duustal surgalt uzsen commanduud
+
+`git add *` **Buh shine bolon uurchlugdsun file-uudiig stage-lene**
