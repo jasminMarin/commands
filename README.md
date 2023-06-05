@@ -1,4 +1,4 @@
-## Git commands
+## Git commands :octocat:
 git commanduudiin tailbar tuslamjiin repo. Nemel medeeleliig [https://1234.mn/course/108](https://1234.mn/course/108)
 
 ```javascript
@@ -7,7 +7,7 @@ console.log("look ma', no spaces");
 }
 ````
 
-## Command-uudin jagsaalt
+## Command-uudin jagsaalt :sparkles:
 `git add *` **Buh shine bolon uurchlugdsun file-uudiig stage-lene**
 
 `git add .` **Buh shine bolon uurchlugdsun file-uudiig stage-lene**
