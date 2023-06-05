@@ -1,4 +1,4 @@
-# Tusuld oroltsson suragchid
+# Tusuld oroltsson suragchid :octocat:
 
-* Ts. Amarbat
-* E. Zolboo
+* :whale:Ts. Amarbat
+* :rocket:E. Zolboo
