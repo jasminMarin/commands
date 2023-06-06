@@ -1,4 +1,4 @@
-:octocat: ## Git commands :octocat:
+## Git commands :octocat:
 git commanduudiin tailbar tuslamjiin repo. Nemel medeeleliig [https://1234.mn/course/108](https://1234.mn/course/108)
 
 ```javascript
