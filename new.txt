@@ -1,2 +1,2 @@
 Feature branch deeres new.txt nemlee
-Backend deer ni Laravel ashiglay
+Backend deer NodeJs, Laravel app ashiglay
