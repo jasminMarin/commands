@@ -16,4 +16,4 @@ console.log("look ma', no spaces");
 
 `git add [file.txt]` **file.txt-g stage-lene**
 
-`git remote prune [remote_name]` **Local deerh remote_name remote-ig tseverlene**
+`git remote prune [remote_name]` **Local deerh remote_name remote-ig tseverlene** `v45|07:36` 
