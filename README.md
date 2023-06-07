@@ -27,3 +27,5 @@ function test() {
 `git merge --squash [branch_name]` **branch_name nertei branch dotor baigaa kommentuudiig negtgen neg bolgoj merge hiine**
 
 `git log --oneline --all --graph [hash_code]` **git tuuhiin comment buriig neg murt bagtaaj branch graphic zuraastai hamt uzuulne**
+
+`git branch --no-merge` **merge hiigdeegui branch-uudiig neriig uzuulne**
