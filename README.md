@@ -29,3 +29,5 @@ function test() {
 `git log --oneline --all --graph [hash_code]` **git tuuhiin comment buriig neg murt bagtaaj branch graphic zuraastai hamt uzuulne**
 
 `git branch --no-merge` **merge hiigdeegui branch-uudiig neriig uzuulne**
+
+`git branch --merge` **merge hiigdsen branch-uudiin neriig uzuulne**
