@@ -21,3 +21,5 @@ function test() {
 `git remote prune [remote_name]` **Local deerh remote_name remote-ig tseverlene** `v45|07:36`
 
 `git tag ` **Buh tag uudiig jagsaaj uzuulne**
+
+`git -a tag` **Buh tag uudiig uusgegchtein ni jagsaaj uzuulne**
