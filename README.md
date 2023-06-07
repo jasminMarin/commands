@@ -25,3 +25,5 @@ function test() {
 `git log --oneline ` **Idevhitei, zuv zasagdsan kommentuudin tuuhiig haruulna**
 
 `git merge --squash [branch_name]` **branch_name nertei branch dotor baigaa kommentuudiig negtgen neg bolgoj merge hiine**
+
+`git cherry-pick [hash_code]` **hash_code kogtoi commit-g odoo baigaa branch ruu shuud oruulj irne**
