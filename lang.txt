@@ -1,1 +1,1 @@
-java type
+java javascript next.js
