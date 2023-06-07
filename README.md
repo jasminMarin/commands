@@ -22,4 +22,6 @@ function test() {
 
 `git tag ` **Buh tag uudiig jagsaaj uzuulne**
 
-`git -a tag` **Buh tag uudiig uusgegchtein ni jagsaaj uzuulne**
+`git log --oneline ` **Idevhitei, zuv zasagdsan kommentuudin tuuhiig haruulna**
+
+`git merge --squash [branch_name]` **branch_name nertei branch dotor baigaa kommentuudiig negtgen neg bolgoj merge hiine**
