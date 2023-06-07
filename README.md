@@ -26,4 +26,10 @@ function test() {
 
 `git merge --squash [branch_name]` **branch_name nertei branch dotor baigaa kommentuudiig negtgen neg bolgoj merge hiine**
 
+<<<<<<< HEAD
 `git cherry-pick [hash_code]` **hash_code kogtoi commit-g odoo baigaa branch ruu shuud oruulj irne**
+=======
+`git rebase [branch_name]` **branch_name branch deer tulguurlan odoo baigaa branch-g dahin bairluulj branch_name branch-iin duh code-g baigaa branch ruu oruulj irne, tuuhiig uurchilj bichdeg bolovch tuuhiig shuluun bolgoj ugnu**
+
+`git rebase -i [branch_name]` **Interactive rebasing: (Hugjuulegch commit bur deer yahiig uuruu songoj rebase hiine)**
+>>>>>>> 53b00a2 (interactive rebase nemlee)
