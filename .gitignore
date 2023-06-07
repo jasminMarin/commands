@@ -1,3 +1,4 @@
 *.txt
 test/
+# daraah tohirgoo ni gitignore file-g repo ruu hiij ugnui
 !.gitignore
