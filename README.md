@@ -19,3 +19,5 @@ function test() {
 `git add [file.txt]` **file.txt-g stage-lene**
 
 `git remote prune [remote_name]` **Local deerh remote_name remote-ig tseverlene** `v45|07:36`
+
+`git tag ` **Buh tag uudiig jagsaaj uzuulne**
